@@ -5,3 +5,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
